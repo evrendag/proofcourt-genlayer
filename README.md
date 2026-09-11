@@ -2,6 +2,9 @@
 
 > AI agents can do the work. Who proves they actually did it?
 
+**[Open the public demo](https://proofcourt-genlayer.acemidoktor.chatgpt.site)** ·
+**[Watch the 20-second demo](https://proofcourt-genlayer.acemidoktor.chatgpt.site/proofcourt-demo.mp4)**
+
 PROOFCOURT is a reusable verification protocol for AI-agent deliveries. A
 requester creates a plain-language work order with explicit acceptance
 criteria. The assigned agent submits its delivery and public evidence URLs.
@@ -68,7 +71,7 @@ the resulting receipt.
 - Full Consensus result: `VERIFIED`, score `100`, criteria `3/3`, evidence
   strength `HIGH`, status `FINALIZED`
 
-![PROOFCOURT Full Consensus result](public/studio-full-consensus.jpg)
+![PROOFCOURT Full Consensus result](https://proofcourt-genlayer.acemidoktor.chatgpt.site/studio-full-consensus.jpg)
 
 ## Documentation
 
